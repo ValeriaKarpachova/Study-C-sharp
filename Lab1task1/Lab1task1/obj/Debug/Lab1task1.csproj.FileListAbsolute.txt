@@ -1,0 +1,10 @@
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\bin\Debug\Lab1task1.exe.config
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\bin\Debug\Lab1task1.exe
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\bin\Debug\Lab1task1.pdb
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.csproj.AssemblyReference.cache
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.Properties.Resources.resources
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.csproj.GenerateResource.cache
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.csproj.CoreCompileInputs.cache
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.exe
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.pdb
+C:\Git Repositories\Study-C-sharp\Lab1task1\Lab1task1\obj\Debug\Lab1task1.Form1.resources
