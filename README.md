@@ -32,7 +32,8 @@
 
 <div align="center">
   
-
+![image](https://github.com/user-attachments/assets/203df7cd-b40f-42e6-9ae8-420ef20e77a9)
+![image](https://github.com/user-attachments/assets/234bdaff-8d2d-4a2e-b811-33f0913175d5)
 Робота Windows Form</div>
 
 
